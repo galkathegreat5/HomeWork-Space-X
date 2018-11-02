@@ -1,0 +1,31 @@
+body {
+    margin: -8px;
+    background-color: black;
+}
+
+.Background {
+    height: 500px;
+    width: 100%;
+    opacity: 0.3;
+    border-width: 0;
+    border-style: none;
+    border-image: none;
+    border-color: transparent;
+}
+
+.MainVideo {
+    position: fixed;
+    top: 20%;
+    left: 20%;
+    right: 20%;
+    height: 450px;
+    width: 796px; 
+}
+
+.ExitButton {
+    position: fixed;
+    top: 10%;
+    left: 75%;
+    height: 36px;
+    width: 36px;
+}
